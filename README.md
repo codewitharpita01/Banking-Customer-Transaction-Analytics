@@ -13,6 +13,10 @@ The project covers the complete analytics workflow — from data generation and 
 The objective is to transform raw transaction data into meaningful business insights using Python, SQL, and Power BI.
 
 ---
+---
+
+
+---
 
 ## 🎯 Business Objectives
 
@@ -66,3 +70,8 @@ SQL Analysis
 Power BI Dashboard
    ↓
 Business Insights
+
+
+## 📊 Dashboard Preview
+
+![Banking Customer Transaction Analytics Dashboard](visualizations/dashboard_preview.png)
